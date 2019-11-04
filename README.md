@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/smbla/sm.svg?branch=master)](https://travis-ci.org/smbla/sm)
 [![Coverage Status](https://coveralls.io/repos/github/smbla/sm/badge.svg?branch=master)](https://coveralls.io/github/smbla/sm?branch=master)
+[![Updates](https://pyup.io/repos/github/smbla/sm/shield.svg)](https://pyup.io/repos/github/smbla/sm/)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=smbla_sm&metric=alert_status)](https://sonarcloud.io/dashboard?id=smbla_sm)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=smbla_sm&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=smbla_sm)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=smbla_sm&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=smbla_sm)
