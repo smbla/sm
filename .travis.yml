@@ -13,6 +13,6 @@ addons:
       secure: 2a37a04ae208e8fa6b088cb41504fec568d4ba90
 script:
   - sonar-scanner
-  - pytest --cov=sm
+  - python -m pytest --cov=a
 after_success:
   - coveralls

@@ -1,4 +1,4 @@
-from smbla import add
+from a.smbla import add
 
 
 def test_test():
