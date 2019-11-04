@@ -1,0 +1,10 @@
+dist: bionic
+language: python
+python: 3.8.0
+install:
+  - pip install -r requirements_dev.txt
+  - pip install -e .
+script:
+  - pytest --cov=sm
+after_success:
+  - coveralls
