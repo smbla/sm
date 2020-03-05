@@ -9,8 +9,7 @@ install:
 addons:
   sonarcloud:
     organization: smbla
-    token:
-      secure: 573a056744e27e984d2514e1770c5251649da522
+    token: 573a056744e27e984d2514e1770c5251649da522
 script:
   - sonar-scanner
   - python -m pytest --cov=a
