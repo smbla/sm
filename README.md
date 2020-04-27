@@ -11,3 +11,6 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=smbla_sm&metric=bugs)](https://sonarcloud.io/dashboard?id=smbla_sm)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=smbla_sm&metric=code_smells)](https://sonarcloud.io/dashboard?id=smbla_sm)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=smbla_sm&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=smbla_sm)
+
+
+[ ~ Dependencies scanned by PyUp.io ~ ]
