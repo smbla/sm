@@ -1,9 +1,9 @@
 black==19.10b0
-pytest==5.4.2
+pytest==5.4.3
 pytest-cov==2.9.0
 coveralls==2.0.0
 pylint==2.5.2
 pylama==7.7.1
 mypy==0.770
 flake8==3.8.3
-pre-commit==2.4.0
+pre-commit==2.5.0
