@@ -2,7 +2,7 @@ black==19.10b0
 pytest==6.0.1
 pytest-cov==2.10.1
 coveralls==2.1.2
-pylint==2.5.3
+pylint==2.6.0
 pylama==7.7.1
 mypy==0.782
 flake8==3.8.3
