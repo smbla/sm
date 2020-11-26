@@ -6,4 +6,4 @@ pylint==2.6.0
 pylama==7.7.1
 mypy==0.790
 flake8==3.8.4
-pre-commit==2.9.0
+pre-commit==2.9.1
