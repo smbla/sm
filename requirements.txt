@@ -1,2 +1,2 @@
 matplotlib==3.3.3
-sentry-sdk==0.19.5
+sentry-sdk==1.14.0
